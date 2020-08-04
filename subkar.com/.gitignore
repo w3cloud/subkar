@@ -1,0 +1,15 @@
+# Hugo default output directory
+/public
+/resources
+/*.zip
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+.forestry
+# OSX
+.DS_Store
