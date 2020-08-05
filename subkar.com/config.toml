@@ -57,37 +57,37 @@ hasChildren = true
   [[menu.main]]
   parent = "homepage"
   name = "Homepage Full Width"
-  url = "http://demo.themefisher.com/logbook-hugo/full-width/"
+  url = "/logbook-hugo/full-width/"
   weight = 1
 
   [[menu.main]]
   parent = "homepage"
   name = "Homepage Full With Left Sidebar"
-  url = "http://demo.themefisher.com/logbook-hugo/full-left/"
+  url = "/logbook-hugo/full-left/"
   weight = 2
 
   [[menu.main]]
   parent = "homepage"
   name = "Homepage Full With Right Sidebar"
-  url = "http://demo.themefisher.com/logbook-hugo/full-right/"
+  url = "/logbook-hugo/full-right/"
   weight = 3
   
   [[menu.main]]
   parent = "homepage"
   name = "Homepage List Style"
-  url = "http://demo.themefisher.com/logbook-hugo/list-style/"
+  url = "/logbook-hugo/list-style/"
   weight = 4
 
   [[menu.main]]
   parent = "homepage"
   name = "Homepage List With Left Sidebar"
-  url = "http://demo.themefisher.com/logbook-hugo/list-left/"
+  url = "/logbook-hugo/list-left/"
   weight = 5
 
   [[menu.main]]
   parent = "homepage"
   name = "Homepage List With Right Sidebar"
-  url = "http://demo.themefisher.com/logbook-hugo/list-right/"
+  url = "/logbook-hugo/list-right/"
   weight = 6
 
 

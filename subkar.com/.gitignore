@@ -1,7 +1,7 @@
 # Hugo default output directory
 /public
-/resources
 /*.zip
+/resources
 
 ## OS Files
 # Windows
