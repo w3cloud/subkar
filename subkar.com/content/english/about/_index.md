@@ -1,27 +1,21 @@
 ---
-title: "Hi, I Am John Doe"
-image: "images/author-full.jpg"
+title: "Subha and Karthik"
+# image: "images/leaf.jpg"
 draft: false
 # description
-description: "This is meta description"
+description: "About us"
 ---
+### Subha
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum 
+![alt text](/images/subha.jpg "Subha")
 
-Faucibus duis urna, consequat morbi imperdiet pulvinar. Mauris vitae sed aliquet eu tincidunt id. Nulla leo eget erat vel pharetra. Morbi nullam morbi non purus, augue. Massa cras odio ante cursus a mauris. Volutpat faucibus feugiat feugiat euismod congue ridiculus. Et ipsum euismod nulla et aenean diam duis. Sem molestie est mauris sit. Et eleifend odio 
+Put Subha into a room with few Post-It notes and some sharpies, she’ll walk out with a clear plan and strategy to effectively reach any goals.
 
-{{< quote by="John Doe" >}}
-Life is a series of natural and spontaneous changes. Don’t resist them – that only create sorrow. Let reality changes be reality. Let things flow naturally way they like.
-{{</ quote >}}
+Living by the principle of Mahatma Gandhi **“Be the Change you want to see in the World“**, Subha loves to spend time with family & friends,  listens to podcasts & music, loves gardening & watching movies.
 
-<hr>
+### Karthik
 
-#### My Skills & Experiences:
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cumto sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.
+Developing software since childhood, Karthik is a technology enthusiast and cares about every little things around him. Lives by the principle of **“Love, Serve & Care”** in all walks of his life.
 
-* In enim justo, rhoncus ut,
-* Curabitur ullamcorper ultricies
-* Donec vitae sapien utlorem
-
-Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.
+When he’s not crafting FoodALot, Karthik spends time with family & friends, fly drones, listen to Audible books, play with Raspberry Pi projects and rave about his Mazda CX9.

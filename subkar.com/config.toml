@@ -49,46 +49,46 @@ link = "plugins/search/search.js"
 ############################## navigation ###############################
 
 # Dropdown menu
-[[menu.main]]
-weight = 1
-name = "homepage"
-hasChildren = true
+#[[menu.main]]
+#weight = 1
+#name = "homepage"
+#hasChildren = true
 
-  [[menu.main]]
-  parent = "homepage"
-  name = "Homepage Full Width"
-  url = "/logbook-hugo/full-width/"
-  weight = 1
+#  [[menu.main]]
+#  parent = "homepage"
+#  name = "Homepage Full Width"
+#  url = "/logbook-hugo/full-width/"
+#  weight = 1
 
-  [[menu.main]]
-  parent = "homepage"
-  name = "Homepage Full With Left Sidebar"
-  url = "/logbook-hugo/full-left/"
-  weight = 2
+#  [[menu.main]]
+#  parent = "homepage"
+#  name = "Homepage Full With Left Sidebar"
+#  url = "/logbook-hugo/full-left/"
+#  weight = 2
 
-  [[menu.main]]
-  parent = "homepage"
-  name = "Homepage Full With Right Sidebar"
-  url = "/logbook-hugo/full-right/"
-  weight = 3
+#  [[menu.main]]
+#  parent = "homepage"
+#  name = "Homepage Full With Right Sidebar"
+#  url = "/logbook-hugo/full-right/"
+#  weight = 3
   
-  [[menu.main]]
-  parent = "homepage"
-  name = "Homepage List Style"
-  url = "/logbook-hugo/list-style/"
-  weight = 4
+#  [[menu.main]]
+#  parent = "homepage"
+#  name = "Homepage List Style"
+#  url = "/logbook-hugo/list-style/"
+#  weight = 4
 
-  [[menu.main]]
-  parent = "homepage"
-  name = "Homepage List With Left Sidebar"
-  url = "/logbook-hugo/list-left/"
-  weight = 5
+#  [[menu.main]]
+#  parent = "homepage"
+#  name = "Homepage List With Left Sidebar"
+#  url = "/logbook-hugo/list-left/"
+#  weight = 5
 
-  [[menu.main]]
-  parent = "homepage"
-  name = "Homepage List With Right Sidebar"
-  url = "/logbook-hugo/list-right/"
-  weight = 6
+ # [[menu.main]]
+ # parent = "homepage"
+ # name = "Homepage List With Right Sidebar"
+ # url = "/logbook-hugo/list-right/"
+ # weight = 6
 
 
 [[menu.main]]
